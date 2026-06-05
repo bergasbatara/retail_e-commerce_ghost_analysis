@@ -1,0 +1,8 @@
+issue	affected_rows
+cancel_invoice_prefix_c	19494
+cleaned_rows	776888
+missing_customer_id	243007
+non_positive_quantity	22950
+non_positive_unit_price	6225
+non_product_stock_codes	3827
+raw_rows	1067371
